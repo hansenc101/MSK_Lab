@@ -24,4 +24,5 @@ using a Viterbi algorithm. The decoded bitstream is then synced with the post an
 then output to the Matlab console. 
 
 ==== Notice ====
+
 All of my documentation is contained in the 'Lab 05 Notebook.docx' file. Theory of operation, progression of project, incremental demonstrations of functionality, plots of waveforms throughout simulation, and answers to questions pertaining to the material are all covered.
